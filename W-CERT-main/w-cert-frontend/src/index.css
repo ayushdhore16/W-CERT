@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cyber-black text-cyber-silver font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-mono font-bold tracking-wide;
+  }
+}
+
+@layer components {
+  .cyber-card {
+    @apply bg-cyber-gray/80 backdrop-blur-md border border-white/10 rounded-lg p-6 hover:border-cyber-blue/50 transition-colors duration-300;
+  }
+  
+  .cyber-input {
+    @apply bg-black/50 border border-white/20 rounded px-4 py-2 w-full text-white focus:outline-none focus:border-cyber-blue focus:shadow-neon transition-all;
+  }
+  
+  .cyber-button {
+    @apply bg-cyber-blue/10 border border-cyber-blue text-cyber-blue px-6 py-2 rounded hover:bg-cyber-blue hover:text-black transition-all font-mono tracking-wider uppercase text-sm font-bold shadow-neon hover:shadow-lg;
+  }
+
+  .cyber-button-danger {
+    @apply bg-alert-red/10 border border-alert-red text-alert-red px-6 py-2 rounded hover:bg-alert-red hover:text-white transition-all font-mono tracking-wider uppercase text-sm font-bold shadow-neon-red hover:shadow-lg;
+  }
+}

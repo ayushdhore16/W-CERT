@@ -1,0 +1,502 @@
+[
+    {
+        "id": "REAL-001",
+        "expected_category": "sextortion",
+        "description": "I know your password '123456'. I hacked your webcam and recorded you on adult sites. Pay $1900 in Bitcoin to [WalletID] or I send the video to your relatives."
+    },
+    {
+        "id": "REAL-002",
+        "expected_category": "sextortion",
+        "description": "Sextortion Scam: I have your browsing history and screenshots. Pay now or I leak it to your Facebook friends."
+    },
+    {
+        "id": "REAL-003",
+        "expected_category": "sextortion",
+        "description": "I have access to your private photos. Morphed versions will be shared with your office colleagues if you don't respond in 24 hours."
+    },
+    {
+        "id": "REAL-004",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was captured. Pay 5000 USDT to avoid public exposure."
+    },
+    {
+        "id": "REAL-005",
+        "expected_category": "benign",
+        "description": "Chain of custody: We have proof of your visits to illegal websites. Pay to delete the evidence."
+    },
+    {
+        "id": "REAL-006",
+        "expected_category": "financial_fraud",
+        "description": "Bank of America: A new payee 'JOHN SMITH' was added. If not you, click here to cancel: [link]"
+    },
+    {
+        "id": "REAL-007",
+        "expected_category": "financial_fraud",
+        "description": "Zelle Alert: Suspicious transfer of $1500 to 'Global Sales'. Verify immediately: [link]"
+    },
+    {
+        "id": "REAL-008",
+        "expected_category": "financial_fraud",
+        "description": "UPI Cashback: You've received Rs. 2000 cashback! Scan this QR to claim in your bank account."
+    },
+    {
+        "id": "REAL-009",
+        "expected_category": "financial_fraud",
+        "description": "Zions Bank: Your account is restricted. Update your billing info to avoid suspension: [link]"
+    },
+    {
+        "id": "REAL-010",
+        "expected_category": "financial_fraud",
+        "description": "IRS Refund: You are eligible for a tax refund of $1,450. Claim it here: [fake-irs-gov.org]"
+    },
+    {
+        "id": "REAL-011",
+        "expected_category": "benign",
+        "description": "Invest Rs. 1000 and get Rs. 2000 daily! Join our VIP Telegram group for guaranteed returns."
+    },
+    {
+        "id": "REAL-012",
+        "expected_category": "financial_fraud",
+        "description": "Your credit card has been charged $499.99 for Geek Squad. Call +1-800-XXX to refund."
+    },
+    {
+        "id": "REAL-013",
+        "expected_category": "financial_fraud",
+        "description": "PayPal: Your payment to 'CryptoEx' was successful. Click to report unauthorized activity."
+    },
+    {
+        "id": "REAL-014",
+        "expected_category": "benign",
+        "description": "SBI Card: Your reward points are expiring today. Redeem them for cash here: [link]"
+    },
+    {
+        "id": "REAL-015",
+        "expected_category": "financial_fraud",
+        "description": "Netflix: Your subscription payment failed. Update your card to keep watching: [fake-netflix.cc]"
+    },
+    {
+        "id": "REAL-016",
+        "expected_category": "identity_theft",
+        "description": "Urgent: Your Microsoft 365 Password Expires Today. Reset here to keep access: [link]"
+    },
+    {
+        "id": "REAL-017",
+        "expected_category": "impersonation",
+        "description": "HR: Please review and sign the updated 'Remote Work Policy' immediately: [fake-docusign.net]"
+    },
+    {
+        "id": "REAL-018",
+        "expected_category": "benign",
+        "description": "Google Security: New sign-in detected on Linux. Check activity: [link]"
+    },
+    {
+        "id": "REAL-019",
+        "expected_category": "identity_theft",
+        "description": "CalNet: Your university account is suspended. Verify identity via this portal: [fake-cas-login.edu]"
+    },
+    {
+        "id": "REAL-020",
+        "expected_category": "identity_theft",
+        "description": "Aadhaar Update: Mandatory KYC required for your mobile connection. Share OTP to verify."
+    },
+    {
+        "id": "REAL-021",
+        "expected_category": "identity_theft",
+        "description": "PAN Card: Your PAN is linked to a suspicious transaction. Login to confirm ownership: [link]"
+    },
+    {
+        "id": "REAL-022",
+        "expected_category": "benign",
+        "description": "OneDrive: You have been shared a file 'Salary_Structure_2024.pdf'. View: [link]"
+    },
+    {
+        "id": "REAL-023",
+        "expected_category": "benign",
+        "description": "IT Support: Your mailbox is 99% full. Upgrade storage quota for free here: [link]"
+    },
+    {
+        "id": "REAL-024",
+        "expected_category": "benign",
+        "description": "Facebook: Your page will be disabled for copyright violation. Appeal here: [link]"
+    },
+    {
+        "id": "REAL-025",
+        "expected_category": "benign",
+        "description": "LinkedIn: 5 recruiters are looking at your profile. Sign in to view messages: [link]"
+    },
+    {
+        "id": "REAL-026",
+        "expected_category": "financial_fraud",
+        "description": "Digital Arrest: This is the Cyber Crime Cell. You are under investigation for money laundering. Do not disconnect."
+    },
+    {
+        "id": "REAL-027",
+        "expected_category": "sextortion",
+        "description": "CEO Request: I'm in a meeting. Can you buy $500 in Apple gift cards for a client and send photos of the codes?"
+    },
+    {
+        "id": "REAL-028",
+        "expected_category": "impersonation",
+        "description": "Faculty Alert: One of your students has tested positive for COVID-19. View the exposure list: [link]"
+    },
+    {
+        "id": "REAL-029",
+        "expected_category": "impersonation",
+        "description": "Customs Department: A package for you contains illegal items. Pay clearance fee to avoid arrest."
+    },
+    {
+        "id": "REAL-030",
+        "expected_category": "financial_fraud",
+        "description": "Relative Emergency: I'm in the hospital and lost my wallet. Send Rs. 10000 via GPay for my discharge."
+    },
+    {
+        "id": "REAL-031",
+        "expected_category": "benign",
+        "description": "Electricity Bill: Your bill is overdue. Connection will be cut tonight. Pay via this link to avoid."
+    },
+    {
+        "id": "REAL-032",
+        "expected_category": "benign",
+        "description": "Musical Instrument Giveaway: I'm giving away my late husband's Yamaha Piano. Just pay shipping charges."
+    },
+    {
+        "id": "REAL-033",
+        "expected_category": "benign",
+        "description": "Work from Home: Earn Rs. 5000/week by reviewing movies on our portal. No fees, no experience."
+    },
+    {
+        "id": "REAL-034",
+        "expected_category": "impersonation",
+        "description": "HR: Mandatory Policy Update \u2013 Signature Required on 'Employee Ethics Doc'. [Attached: zip file]"
+    },
+    {
+        "id": "REAL-035",
+        "expected_category": "benign",
+        "description": "McAfee: Your protection plan has expired. Your PC is at risk. Renew now for 50% discount."
+    },
+    {
+        "id": "REAL-036",
+        "expected_category": "benign",
+        "description": "Can you help me find the nearest hospital for a general checkup?"
+    },
+    {
+        "id": "REAL-037",
+        "expected_category": "identity_theft",
+        "description": "How do I change my home address on the official Aadhaar website?"
+    },
+    {
+        "id": "REAL-038",
+        "expected_category": "benign",
+        "description": "Where can I report a lost gold chain in the city?"
+    },
+    {
+        "id": "REAL-039",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in New Delhi?"
+    },
+    {
+        "id": "REAL-040",
+        "expected_category": "identity_theft",
+        "description": "How to enable two-factor authentication on my Gmail account?"
+    },
+    {
+        "id": "REAL-041",
+        "expected_category": "identity_theft",
+        "description": "What are the best practices for setting a strong password?"
+    },
+    {
+        "id": "REAL-042",
+        "expected_category": "benign",
+        "description": "How do I report a noise complaint in my residential area?"
+    },
+    {
+        "id": "REAL-043",
+        "expected_category": "benign",
+        "description": "Can I pay my water bill offline at the municipality office?"
+    },
+    {
+        "id": "REAL-044",
+        "expected_category": "benign",
+        "description": "What is the procedure to apply for a new driving license?"
+    },
+    {
+        "id": "REAL-045",
+        "expected_category": "impersonation",
+        "description": "How to block a lost SIM card through the telecom operator's app?"
+    },
+    {
+        "id": "REAL-046",
+        "expected_category": "identity_theft",
+        "description": "Amazon: Order #99128 is delayed at our warehouse. Verify your address: [link]"
+    },
+    {
+        "id": "REAL-047",
+        "expected_category": "impersonation",
+        "description": "FedEx: Delivery failed. No one was at home to sign. Reschedule here: [link]"
+    },
+    {
+        "id": "REAL-048",
+        "expected_category": "sextortion",
+        "description": "Apple iCloud: Your storage is full. Photos will stop syncing. Get 50GB free: [link]"
+    },
+    {
+        "id": "REAL-049",
+        "expected_category": "financial_fraud",
+        "description": "DHL: Your parcel is waiting for tax payment of Rs. 150. Pay here to release: [link]"
+    },
+    {
+        "id": "REAL-050",
+        "expected_category": "identity_theft",
+        "description": "Uber: A new login was detected in your account. Secure it now: [link]"
+    },
+    {
+        "id": "REAL-051",
+        "expected_category": "benign",
+        "description": "Zomato: You've won a Rs. 500 food voucher! Redeem code 'WIN500' here: [link]"
+    },
+    {
+        "id": "REAL-052",
+        "expected_category": "financial_fraud",
+        "description": "HDFC Bank: Your NetBanking access is blocked. Complete KYC to unblock: [link]"
+    },
+    {
+        "id": "REAL-053",
+        "expected_category": "financial_fraud",
+        "description": "ICICI Bank: Update your mobile number for safe banking. Click to verify: [link]"
+    },
+    {
+        "id": "REAL-054",
+        "expected_category": "identity_theft",
+        "description": "WhatsApp: Your account is being moved to a new device. Enter the code to confirm."
+    },
+    {
+        "id": "REAL-055",
+        "expected_category": "benign",
+        "description": "Instagram: You've been reported for violating community guidelines. File an appeal: [link]"
+    },
+    {
+        "id": "REAL-056",
+        "expected_category": "sextortion",
+        "description": "Sextortion: I've installed a trojan on your system. I have your contacts. Pay or suffer."
+    },
+    {
+        "id": "REAL-057",
+        "expected_category": "impersonation",
+        "description": "Arrest Warrant: An FIR has been filed against you for tax evasion. Call back immediately."
+    },
+    {
+        "id": "REAL-058",
+        "expected_category": "financial_fraud",
+        "description": "Lottery Winner: You are the winner of the 2024 Mega Draw! Contact us to claim prize."
+    },
+    {
+        "id": "REAL-059",
+        "expected_category": "benign",
+        "description": "Job Offer: Salary 1.5 Lakhs. No interview. Work from home. Click to apply."
+    },
+    {
+        "id": "REAL-060",
+        "expected_category": "financial_fraud",
+        "description": "Refund Alert: Your Taj Hotel booking was cancelled. Receive refund here: [link]"
+    },
+    {
+        "id": "REAL-061",
+        "expected_category": "benign",
+        "description": "Policy Update: New insurance coverage for all employees. Sign up today: [link]"
+    },
+    {
+        "id": "REAL-062",
+        "expected_category": "benign",
+        "description": "Suspicious Activity: Someone tried to use your card at 'Merchant X'. Call to block."
+    },
+    {
+        "id": "REAL-063",
+        "expected_category": "benign",
+        "description": "Gift for You: A friend sent you a Starbucks gift card. Claim it here: [link]"
+    },
+    {
+        "id": "REAL-064",
+        "expected_category": "benign",
+        "description": "System Alert: Windows detected a virus on your computer. Call Microsoft Support: [number]"
+    },
+    {
+        "id": "REAL-065",
+        "expected_category": "financial_fraud",
+        "description": "Wallet Update: Your Paytm wallet is inactive. Renew KYC via this link."
+    },
+    {
+        "id": "REAL-066",
+        "expected_category": "impersonation",
+        "description": "Delivery Notice: USPS package #4812 cannot be delivered. Update address: [link]"
+    },
+    {
+        "id": "REAL-067",
+        "expected_category": "identity_theft",
+        "description": "Verification Code: Do not share your OTP 482181 with anyone."
+    },
+    {
+        "id": "REAL-068",
+        "expected_category": "benign",
+        "description": "Privacy Alert: Someone searched for your name on our background check site. View who."
+    },
+    {
+        "id": "REAL-069",
+        "expected_category": "identity_theft",
+        "description": "Account Warning: Your Twitter account will be verified if you follow these steps."
+    },
+    {
+        "id": "REAL-070",
+        "expected_category": "sextortion",
+        "description": "Sextortion: I am your neighbor. I saw everything. Pay me and I stay quiet."
+    },
+    {
+        "id": "REAL-071",
+        "expected_category": "financial_fraud",
+        "description": "Family Emergency: Sis, I crashed the car. Don't tell Mom. Need money to pay the other guy."
+    },
+    {
+        "id": "REAL-072",
+        "expected_category": "benign",
+        "description": "Survey Reward: Tell us how we're doing and get a $50 Amazon credit."
+    },
+    {
+        "id": "REAL-073",
+        "expected_category": "financial_fraud",
+        "description": "Tax Bill: You owe Rs. 15000 in back taxes. Pay via UPI to avoid legal action."
+    },
+    {
+        "id": "REAL-074",
+        "expected_category": "benign",
+        "description": "Travel Deal: Fly to Dubai for Rs. 9999! Limited seats. Book now: [link]"
+    },
+    {
+        "id": "REAL-075",
+        "expected_category": "benign",
+        "description": "Health Alert: New virus strain in your area. Read precautions here: [link]"
+    },
+    {
+        "id": "REAL-076",
+        "expected_category": "benign",
+        "description": "Security Patch: Critical update for your VPN client. Download and install now."
+    },
+    {
+        "id": "REAL-077",
+        "expected_category": "benign",
+        "description": "Missing Person: Have you seen this girl? Click for details and help share."
+    },
+    {
+        "id": "REAL-078",
+        "expected_category": "benign",
+        "description": "Financial Aid: You are eligible for the PM's student scholarship scheme. Apply now."
+    },
+    {
+        "id": "REAL-079",
+        "expected_category": "financial_fraud",
+        "description": "Invoice #8210: Payment overdue. Late fees applied. View invoice: [link]"
+    },
+    {
+        "id": "REAL-080",
+        "expected_category": "financial_fraud",
+        "description": "Zelle: 'Mary' sent you $50.00. To accept, login to your bank portal: [link]"
+    },
+    {
+        "id": "REAL-081",
+        "expected_category": "financial_fraud",
+        "description": "Bank Alert: Your debit card was used at 'International POS'. If not you, press 1."
+    },
+    {
+        "id": "REAL-082",
+        "expected_category": "benign",
+        "description": "Tech Support: Your computer is sending out spam. We need to remote in to fix it."
+    },
+    {
+        "id": "REAL-083",
+        "expected_category": "benign",
+        "description": "Free Wi-Fi: Connect to 'Public_Guest' for unfiltered high-speed internet."
+    },
+    {
+        "id": "REAL-084",
+        "expected_category": "sextortion",
+        "description": "Blackmail: I have your work emails. I will tell your HR you are leaking secrets."
+    },
+    {
+        "id": "REAL-085",
+        "expected_category": "impersonation",
+        "description": "Hacker Threat: Your website is being DDoS'd. Pay us to stop the attack."
+    },
+    {
+        "id": "REAL-086",
+        "expected_category": "financial_fraud",
+        "description": "Prize Notification: You've won a brand new iPhone 15 Pro Max! Pay shipping only."
+    },
+    {
+        "id": "REAL-087",
+        "expected_category": "financial_fraud",
+        "description": "Refund Policy: We overcharged you for last month's utilities. Refund form here: [link]"
+    },
+    {
+        "id": "REAL-088",
+        "expected_category": "identity_theft",
+        "description": "Account Reactivation: Your Disney+ account is inactive. Reactivate for $1."
+    },
+    {
+        "id": "REAL-089",
+        "expected_category": "identity_theft",
+        "description": "Security Question: What was the name of your first pet? Please verify."
+    },
+    {
+        "id": "REAL-090",
+        "expected_category": "sextortion",
+        "description": "Sextortion: I have a video of you. This is my last warning. Bitcoin or Bust."
+    },
+    {
+        "id": "REAL-091",
+        "expected_category": "identity_theft",
+        "description": "Official Notice: Your passport application has a discrepancy. Login to fix: [link]"
+    },
+    {
+        "id": "REAL-092",
+        "expected_category": "benign",
+        "description": "Courier Update: BlueDart package is stuck at city hub. Provide ID to release."
+    },
+    {
+        "id": "REAL-093",
+        "expected_category": "benign",
+        "description": "Scholarship Alert: Win a full-ride to Harvard. Fill out your details: [link]"
+    },
+    {
+        "id": "REAL-094",
+        "expected_category": "identity_theft",
+        "description": "Urgent Request: Manager needs the list of all employee passwords for auditing."
+    },
+    {
+        "id": "REAL-095",
+        "expected_category": "benign",
+        "description": "Fraud Alert: A charge of $800 was made at 'Best Buy'. Authenticate here: [link]"
+    },
+    {
+        "id": "REAL-096",
+        "expected_category": "sextortion",
+        "description": "I know your password '123456'. I hacked your webcam and recorded you on adult sites. Pay $1900 in Bitcoin to [WalletID] or I send the video to your relatives."
+    },
+    {
+        "id": "REAL-097",
+        "expected_category": "sextortion",
+        "description": "Sextortion Scam: I have your browsing history and screenshots. Pay now or I leak it to your Facebook friends."
+    },
+    {
+        "id": "REAL-098",
+        "expected_category": "sextortion",
+        "description": "I have access to your private photos. Morphed versions will be shared with your office colleagues if you don't respond in 24 hours."
+    },
+    {
+        "id": "REAL-099",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was captured. Pay 5000 USDT to avoid public exposure."
+    },
+    {
+        "id": "REAL-100",
+        "expected_category": "benign",
+        "description": "Chain of custody: We have proof of your visits to illegal websites. Pay to delete the evidence."
+    }
+]

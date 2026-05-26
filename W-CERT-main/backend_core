@@ -1,0 +1,125 @@
+import os
+import hashlib
+import gspread
+from datetime import datetime
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+from oauth2client.service_account import ServiceAccountCredentials
+from cryptography.fernet import Fernet
+
+app = Flask(__name__)
+CORS(app)
+
+# ==========================================
+# 1. SECURITY CONFIGURATION
+# ==========================================
+# In a real deployment, save this key to a file. 
+# If you restart the server and lose this key, you can't decrypt old data.
+ENCRYPTION_KEY = Fernet.generate_key()
+cipher = Fernet(ENCRYPTION_KEY)
+
+# YOUR GOOGLE CREDENTIALS (Paste your full JSON dictionary here)
+creds_dict = {
+    "type": "service_account",
+    "project_id": "w-cert",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8WmEpdVUoZlvW\nhhmTUhlAsb9T5WHBzPyt5/JJ7WmzHoEBzTFqXQV5MGKsuKiPXXrcHGQ/1nN3JaKL\nC0NOpfP9KDluJt4HrvB2MbY+jMOJ/1JYH+AQegGIT5LOq+0GLLoMJKixgaY+KpE6\npXaYRGRFlbiW+Cbg0tg2aLIQq8VBaYX4BqbJcfMtuWWSGKtYXh8aU2vo1zxhcb8b\nFgB4y1vg357VEODp/A+3g10sHqElCFCPI7Gdownd8mTGjlt/fI7vtszWFzLHLNvs\npcN2rW0xJ+PQGrbmFkI/PxpOfu+jksEd6mqqyphTbr9ol0X5gaEaLeOSE+QWYZ6z\nmpWst0HdAgMBAAECggEACroZUVTibsdWQM4I1q7Pi4jD+n7JwJGQghqqXhhPE4Qv\nzomK4Fb1Y5eZmw12OMSsZVeZma14jHyAeMDsClE3Eip7C4Fbq54vNDAJxB9creHf\nD5qbIR0YXr9svz1OkFzg6KWi1N8rIlxmwoC0vnXGAdTbJdVH/jhhLMdtfWJm/Miw\n6rWj+/M2ZYS203wh1qx6X4kOk8QtDXT+YaWTBY5M2jnLA2e6CPSz31d1acUx40Ga\nowPIhCF+is9HuPSg2vumdTMBmou8v6CyEEgaZjM8L+WS+Rxzgl1c1iQ4Nm4sRAHV\nokA+ME4U6wg0HFsoBQLnI8R2s0yN7fIrEixRK30asQKBgQD5xyd02RzMBbyRQOsY\n9ExCziZea83RkKNE2spd+55e1GjEeCQs2Wl637ZQKkisF62xGvrt8H7H3Il3Ei8e\nWmB1rp0ZbrJKTJQ3409lPnelTvQdXzwvoQFFF93OmhNIIqil1/GfjWQZhnLmMyG4\nTdSiI3gPEdiBdJ6vDdZExmwjLQKBgQDBC4QRZ5O106r63IpyXiZDJ/u64VjPJTxM\nZtVqwIe7OCUgBg1z4dYUDdTgEO9XWSUEXJ8uDRt6ZI4SlUtskOymq7e1F5dYlZET\nxLEjT13WnvwnPZN9g611TwsIelzZQfpVy861DIscoyu/YZmsdIq1Zwz/HcAVCpeJ\nJcQWM4uHcQKBgQCK4sM8xNCvXW05s0hGSujwqKJLFFSQd4VhburhkVzBTAipXkh3\nK7jsGuLL9ocMMephtSfcEELerPE+5TyP+x7xsNMn5hZ7G9O6s8lc+XwbzigNAPx9\nW2BSY+/wxll8XdE6zjVLS5piWxEekUXprlVShrhmYLzrVsY5fk8rVM2iTQKBgF6l\nCbwKvxWfUC2r4MjPtgyo1rc58nOkutpudGXhPOqiTTlVHlVZPL8aROsSAnYdw5NO\n4dAPJxCrqigcQB1bNFtGx0um5FHPCpDZl0tLhyNJUTDf9KbN30YrWapva4Qs39Ie\nmRqUqsOAkFtFO7WcccEcY/fUGy91wPPBq1CDNv5RAoGAZXNmZpKB3mlM8Sa8dDF8\n++vrr6lwForxwU+Yyjz+OjztCfxX4CMKK1skriaBaZV1EOF7ri02cnKW0JofIevK\nuPJhaubUXDQJ/YrFjqSi4wx78E9m+tbzpmjgDe4mmy08jcas+bgET2w790r608m+\no+WnYNvXc/1k8tbxRPnB3aU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "w-cert@w-cert.iam.gserviceaccount.com",
+    "token_uri": "https://oauth2.googleapis.com/token",
+}
+
+# ==========================================
+# 2. THE CORE LOGIC ENGINE
+# ==========================================
+def perform_threat_analysis(description):
+    """
+    Weighted Keyword Analysis for Phishing/Social Engineering
+    """
+    score = 0
+    desc = description.lower()
+    
+    # Dictionary of weights based on Women-Centric Cyber Threats
+    weights = {
+        "leak": 35, "private": 25, "photos": 30, "threat": 25,
+        "money": 15, "urgent": 15, "password": 20, "otp": 20,
+        "police": 10, "blocked": 10
+    }
+
+    detected_tags = []
+    for word, weight in weights.items():
+        if word in desc:
+            score += weight
+            detected_tags.append(word)
+
+    # Severity Categorization
+    if score >= 75: severity = "CRITICAL"
+    elif score >= 50: severity = "HIGH"
+    elif score >= 25: severity = "MEDIUM"
+    else: severity = "LOW"
+    
+    return score, severity, ", ".join(detected_tags)
+
+# ==========================================
+# 3. STORAGE HANDLER (GOOGLE SHEETS)
+# ==========================================
+def save_to_secure_sheet(row_data):
+    try:
+        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+        client = gspread.authorize(creds)
+        
+        # NOTE: Make sure your Sheet name matches exactly!
+        sheet = client.open("W-CERT_Database").get_worksheet(0)
+        sheet.append_row(row_data)
+        return True
+    except Exception as e:
+        print(f"[*] DATABASE ERROR: {e}")
+        return False
+
+# ==========================================
+# 4. API ENDPOINTS (NETWORK LAYER)
+# ==========================================
+@app.route('/report', methods=['POST'])
+def handle_incident():
+    data = request.json
+    
+    # 1. Extraction
+    name = data.get('name', 'Anonymous')
+    contact = data.get('contact', 'N/A')
+    description = data.get('description', '')
+
+    # 2. Logic: Perform Analysis
+    score, severity, tags = perform_threat_analysis(description)
+
+    # 3. Security: AES Encryption for PII (Data at Rest Protection)
+    encrypted_name = cipher.encrypt(name.encode()).decode()
+    encrypted_contact = cipher.encrypt(contact.encode()).decode()
+
+    # 4. Security: SHA-256 for Forensic Integrity
+    content_hash = hashlib.sha256(description.encode()).hexdigest()
+    
+    # 5. Compile and Store
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # Structure for Google Sheet: 
+    # [Time, Encrypted_Name, Encrypted_Contact, Tags, Score, Severity, Hash]
+    final_row = [timestamp, encrypted_name, encrypted_contact, tags, score, severity, content_hash]
+    
+    if save_to_secure_sheet(final_row):
+        return jsonify({
+            "status": "Success",
+            "incident_id": content_hash[:10].upper(),
+            "severity": severity,
+            "analysis_score": score,
+            "message": "Report logged securely with end-to-end encryption."
+        }), 200
+    else:
+        return jsonify({"status": "Database Connection Failed"}), 500
+
+@app.route('/', methods=['GET'])
+def home():
+    return "W-CERT Backend API is Online.", 200
+
+if __name__ == '__main__':
+    print(f"[*] W-CERT Master Encryption Key: {ENCRYPTION_KEY.decode()}")
+    print("[*] Starting Secure Server...")
+    app.run(debug=True, port=5000)

@@ -1,0 +1,19 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Credentials - NEVER commit
+service_account.json
+
+# Evidence uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+.venv/

@@ -1,0 +1,5002 @@
+[
+    {
+        "id": "TEST-0000",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required now."
+    },
+    {
+        "id": "TEST-0001",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0002",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required photos."
+    },
+    {
+        "id": "TEST-0003",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0004",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required private."
+    },
+    {
+        "id": "TEST-0005",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required intimate."
+    },
+    {
+        "id": "TEST-0006",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required limited time."
+    },
+    {
+        "id": "TEST-0007",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0008",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0009",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required money."
+    },
+    {
+        "id": "TEST-0010",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0011",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required kyc."
+    },
+    {
+        "id": "TEST-0012",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0013",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required nude."
+    },
+    {
+        "id": "TEST-0014",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0015",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0016",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0017",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required limited time."
+    },
+    {
+        "id": "TEST-0018",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0019",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required credit card."
+    },
+    {
+        "id": "TEST-0020",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0021",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required account."
+    },
+    {
+        "id": "TEST-0022",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required locked."
+    },
+    {
+        "id": "TEST-0023",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0024",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0025",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0026",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0027",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required photos."
+    },
+    {
+        "id": "TEST-0028",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0029",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required password."
+    },
+    {
+        "id": "TEST-0030",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0031",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0032",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required bank."
+    },
+    {
+        "id": "TEST-0033",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required payment."
+    },
+    {
+        "id": "TEST-0034",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required transfer."
+    },
+    {
+        "id": "TEST-0035",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required immediately."
+    },
+    {
+        "id": "TEST-0036",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required verify identity."
+    },
+    {
+        "id": "TEST-0037",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0038",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required leak."
+    },
+    {
+        "id": "TEST-0039",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required account."
+    },
+    {
+        "id": "TEST-0040",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required private."
+    },
+    {
+        "id": "TEST-0041",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required password."
+    },
+    {
+        "id": "TEST-0042",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0043",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required act fast."
+    },
+    {
+        "id": "TEST-0044",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0045",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0046",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0047",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required loan."
+    },
+    {
+        "id": "TEST-0048",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required bank."
+    },
+    {
+        "id": "TEST-0049",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0050",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required refund."
+    },
+    {
+        "id": "TEST-0051",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0052",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0053",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0054",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required video call."
+    },
+    {
+        "id": "TEST-0055",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required bank."
+    },
+    {
+        "id": "TEST-0056",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0057",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0058",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0059",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required intimate."
+    },
+    {
+        "id": "TEST-0060",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0061",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required photos."
+    },
+    {
+        "id": "TEST-0062",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0063",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required hurry."
+    },
+    {
+        "id": "TEST-0064",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0065",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0066",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required locked."
+    },
+    {
+        "id": "TEST-0067",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required expire."
+    },
+    {
+        "id": "TEST-0068",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required cashback."
+    },
+    {
+        "id": "TEST-0069",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required immediately."
+    },
+    {
+        "id": "TEST-0070",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0071",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required lottery."
+    },
+    {
+        "id": "TEST-0072",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0073",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0074",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0075",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0076",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0077",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required expire."
+    },
+    {
+        "id": "TEST-0078",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required photos."
+    },
+    {
+        "id": "TEST-0079",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required cashback."
+    },
+    {
+        "id": "TEST-0080",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0081",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0082",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0083",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required lottery."
+    },
+    {
+        "id": "TEST-0084",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required wallet."
+    },
+    {
+        "id": "TEST-0085",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0086",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0087",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required immediately."
+    },
+    {
+        "id": "TEST-0088",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0089",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0090",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required deepfake."
+    },
+    {
+        "id": "TEST-0091",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0092",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required screenshot."
+    },
+    {
+        "id": "TEST-0093",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0094",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0095",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required pan card."
+    },
+    {
+        "id": "TEST-0096",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required payment."
+    },
+    {
+        "id": "TEST-0097",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required share publicly."
+    },
+    {
+        "id": "TEST-0098",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required transfer."
+    },
+    {
+        "id": "TEST-0099",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0100",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required verify."
+    },
+    {
+        "id": "TEST-0101",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required loan."
+    },
+    {
+        "id": "TEST-0102",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required suspended."
+    },
+    {
+        "id": "TEST-0103",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0104",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required deepfake."
+    },
+    {
+        "id": "TEST-0105",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0106",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0107",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required verify."
+    },
+    {
+        "id": "TEST-0108",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0109",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required limited time."
+    },
+    {
+        "id": "TEST-0110",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required immediately."
+    },
+    {
+        "id": "TEST-0111",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required lottery."
+    },
+    {
+        "id": "TEST-0112",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0113",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required payment."
+    },
+    {
+        "id": "TEST-0114",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0115",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required verify."
+    },
+    {
+        "id": "TEST-0116",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0117",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required login."
+    },
+    {
+        "id": "TEST-0118",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0119",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required expose."
+    },
+    {
+        "id": "TEST-0120",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0121",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required urgent."
+    },
+    {
+        "id": "TEST-0122",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required private."
+    },
+    {
+        "id": "TEST-0123",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required limited time."
+    },
+    {
+        "id": "TEST-0124",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required investment."
+    },
+    {
+        "id": "TEST-0125",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0126",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required account."
+    },
+    {
+        "id": "TEST-0127",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0128",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0129",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required upi."
+    },
+    {
+        "id": "TEST-0130",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0131",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0132",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0133",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0134",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required nude."
+    },
+    {
+        "id": "TEST-0135",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required last chance."
+    },
+    {
+        "id": "TEST-0136",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required upi."
+    },
+    {
+        "id": "TEST-0137",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0138",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0139",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0140",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0141",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0142",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required immediately."
+    },
+    {
+        "id": "TEST-0143",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0144",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0145",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0146",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required investment."
+    },
+    {
+        "id": "TEST-0147",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0148",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0149",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required private."
+    },
+    {
+        "id": "TEST-0150",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0151",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required credit card."
+    },
+    {
+        "id": "TEST-0152",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required act fast."
+    },
+    {
+        "id": "TEST-0153",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0154",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0155",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required video call."
+    },
+    {
+        "id": "TEST-0156",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required payment."
+    },
+    {
+        "id": "TEST-0157",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required wallet."
+    },
+    {
+        "id": "TEST-0158",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required money."
+    },
+    {
+        "id": "TEST-0159",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0160",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0161",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required wallet."
+    },
+    {
+        "id": "TEST-0162",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0163",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0164",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0165",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0166",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required transfer."
+    },
+    {
+        "id": "TEST-0167",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required login."
+    },
+    {
+        "id": "TEST-0168",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required otp."
+    },
+    {
+        "id": "TEST-0169",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0170",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required transfer."
+    },
+    {
+        "id": "TEST-0171",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required transfer."
+    },
+    {
+        "id": "TEST-0172",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0173",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0174",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0175",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0176",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required blackmail."
+    },
+    {
+        "id": "TEST-0177",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required account."
+    },
+    {
+        "id": "TEST-0178",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required upi."
+    },
+    {
+        "id": "TEST-0179",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0180",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0181",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0182",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0183",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0184",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required hurry."
+    },
+    {
+        "id": "TEST-0185",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required prize."
+    },
+    {
+        "id": "TEST-0186",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required aadhaar."
+    },
+    {
+        "id": "TEST-0187",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0188",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0189",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0190",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0191",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required hurry."
+    },
+    {
+        "id": "TEST-0192",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required deepfake."
+    },
+    {
+        "id": "TEST-0193",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0194",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0195",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required locked."
+    },
+    {
+        "id": "TEST-0196",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required private."
+    },
+    {
+        "id": "TEST-0197",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required credit card."
+    },
+    {
+        "id": "TEST-0198",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0199",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0200",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0201",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0202",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0203",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0204",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0205",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required private."
+    },
+    {
+        "id": "TEST-0206",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0207",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required prize."
+    },
+    {
+        "id": "TEST-0208",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required password."
+    },
+    {
+        "id": "TEST-0209",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required act fast."
+    },
+    {
+        "id": "TEST-0210",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required password."
+    },
+    {
+        "id": "TEST-0211",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0212",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required wallet."
+    },
+    {
+        "id": "TEST-0213",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0214",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required account."
+    },
+    {
+        "id": "TEST-0215",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0216",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0217",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0218",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0219",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required hurry."
+    },
+    {
+        "id": "TEST-0220",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0221",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0222",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required login."
+    },
+    {
+        "id": "TEST-0223",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required final warning."
+    },
+    {
+        "id": "TEST-0224",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required morphed."
+    },
+    {
+        "id": "TEST-0225",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0226",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required locked."
+    },
+    {
+        "id": "TEST-0227",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0228",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0229",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0230",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0231",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0232",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required money."
+    },
+    {
+        "id": "TEST-0233",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0234",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0235",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required upi."
+    },
+    {
+        "id": "TEST-0236",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0237",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0238",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0239",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0240",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0241",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required share publicly."
+    },
+    {
+        "id": "TEST-0242",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required final warning."
+    },
+    {
+        "id": "TEST-0243",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required credential."
+    },
+    {
+        "id": "TEST-0244",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0245",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0246",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required last chance."
+    },
+    {
+        "id": "TEST-0247",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required expire."
+    },
+    {
+        "id": "TEST-0248",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0249",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0250",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required record."
+    },
+    {
+        "id": "TEST-0251",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required deepfake."
+    },
+    {
+        "id": "TEST-0252",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required verify."
+    },
+    {
+        "id": "TEST-0253",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0254",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required record."
+    },
+    {
+        "id": "TEST-0255",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0256",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0257",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required hurry."
+    },
+    {
+        "id": "TEST-0258",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0259",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required otp."
+    },
+    {
+        "id": "TEST-0260",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required final warning."
+    },
+    {
+        "id": "TEST-0261",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0262",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required screenshot."
+    },
+    {
+        "id": "TEST-0263",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0264",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0265",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0266",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required intimate."
+    },
+    {
+        "id": "TEST-0267",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required loan."
+    },
+    {
+        "id": "TEST-0268",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required transfer."
+    },
+    {
+        "id": "TEST-0269",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required lottery."
+    },
+    {
+        "id": "TEST-0270",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0271",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0272",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0273",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0274",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required morphed."
+    },
+    {
+        "id": "TEST-0275",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required screenshot."
+    },
+    {
+        "id": "TEST-0276",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0277",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0278",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0279",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0280",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0281",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0282",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required payment."
+    },
+    {
+        "id": "TEST-0283",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0284",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required limited time."
+    },
+    {
+        "id": "TEST-0285",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required expire."
+    },
+    {
+        "id": "TEST-0286",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required cashback."
+    },
+    {
+        "id": "TEST-0287",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required payment."
+    },
+    {
+        "id": "TEST-0288",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0289",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0290",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required payment."
+    },
+    {
+        "id": "TEST-0291",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0292",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required record."
+    },
+    {
+        "id": "TEST-0293",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required photos."
+    },
+    {
+        "id": "TEST-0294",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required emergency."
+    },
+    {
+        "id": "TEST-0295",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0296",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required deadline."
+    },
+    {
+        "id": "TEST-0297",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0298",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required lottery."
+    },
+    {
+        "id": "TEST-0299",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0300",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0301",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required screenshot."
+    },
+    {
+        "id": "TEST-0302",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0303",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0304",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required pan card."
+    },
+    {
+        "id": "TEST-0305",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0306",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required intimate."
+    },
+    {
+        "id": "TEST-0307",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0308",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required password."
+    },
+    {
+        "id": "TEST-0309",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required prize."
+    },
+    {
+        "id": "TEST-0310",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required kyc."
+    },
+    {
+        "id": "TEST-0311",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required private."
+    },
+    {
+        "id": "TEST-0312",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0313",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0314",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0315",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required loan."
+    },
+    {
+        "id": "TEST-0316",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required urgent."
+    },
+    {
+        "id": "TEST-0317",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0318",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0319",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required verify."
+    },
+    {
+        "id": "TEST-0320",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required photos."
+    },
+    {
+        "id": "TEST-0321",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0322",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required cashback."
+    },
+    {
+        "id": "TEST-0323",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0324",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required payment."
+    },
+    {
+        "id": "TEST-0325",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0326",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0327",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0328",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required now."
+    },
+    {
+        "id": "TEST-0329",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0330",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0331",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0332",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required record."
+    },
+    {
+        "id": "TEST-0333",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0334",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0335",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0336",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0337",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required money."
+    },
+    {
+        "id": "TEST-0338",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required lottery."
+    },
+    {
+        "id": "TEST-0339",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0340",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0341",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required locked."
+    },
+    {
+        "id": "TEST-0342",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0343",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0344",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0345",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0346",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0347",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required last chance."
+    },
+    {
+        "id": "TEST-0348",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0349",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required private."
+    },
+    {
+        "id": "TEST-0350",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0351",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0352",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required limited time."
+    },
+    {
+        "id": "TEST-0353",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required payment."
+    },
+    {
+        "id": "TEST-0354",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0355",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required money."
+    },
+    {
+        "id": "TEST-0356",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0357",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required otp."
+    },
+    {
+        "id": "TEST-0358",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0359",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0360",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0361",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required verify."
+    },
+    {
+        "id": "TEST-0362",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0363",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0364",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required pan card."
+    },
+    {
+        "id": "TEST-0365",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0366",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required final warning."
+    },
+    {
+        "id": "TEST-0367",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0368",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0369",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0370",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0371",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required locked."
+    },
+    {
+        "id": "TEST-0372",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0373",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required cashback."
+    },
+    {
+        "id": "TEST-0374",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required otp."
+    },
+    {
+        "id": "TEST-0375",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required immediately."
+    },
+    {
+        "id": "TEST-0376",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0377",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0378",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0379",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required lottery."
+    },
+    {
+        "id": "TEST-0380",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0381",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0382",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required leak."
+    },
+    {
+        "id": "TEST-0383",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0384",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required video call."
+    },
+    {
+        "id": "TEST-0385",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required cashback."
+    },
+    {
+        "id": "TEST-0386",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0387",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0388",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required share publicly."
+    },
+    {
+        "id": "TEST-0389",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0390",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required now."
+    },
+    {
+        "id": "TEST-0391",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0392",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0393",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required wallet."
+    },
+    {
+        "id": "TEST-0394",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0395",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0396",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0397",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required login."
+    },
+    {
+        "id": "TEST-0398",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0399",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required prize."
+    },
+    {
+        "id": "TEST-0400",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0401",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required locked."
+    },
+    {
+        "id": "TEST-0402",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required password."
+    },
+    {
+        "id": "TEST-0403",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required investment."
+    },
+    {
+        "id": "TEST-0404",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0405",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0406",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0407",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0408",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0409",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required immediately."
+    },
+    {
+        "id": "TEST-0410",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0411",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0412",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required loan."
+    },
+    {
+        "id": "TEST-0413",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0414",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required prize."
+    },
+    {
+        "id": "TEST-0415",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required morphed."
+    },
+    {
+        "id": "TEST-0416",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required final warning."
+    },
+    {
+        "id": "TEST-0417",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0418",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0419",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required deepfake."
+    },
+    {
+        "id": "TEST-0420",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0421",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0422",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0423",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required transfer."
+    },
+    {
+        "id": "TEST-0424",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required record."
+    },
+    {
+        "id": "TEST-0425",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0426",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required expose."
+    },
+    {
+        "id": "TEST-0427",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required expire."
+    },
+    {
+        "id": "TEST-0428",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0429",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0430",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required investment."
+    },
+    {
+        "id": "TEST-0431",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required verify."
+    },
+    {
+        "id": "TEST-0432",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0433",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0434",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0435",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0436",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required expose."
+    },
+    {
+        "id": "TEST-0437",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required video call."
+    },
+    {
+        "id": "TEST-0438",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0439",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0440",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required verify identity."
+    },
+    {
+        "id": "TEST-0441",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0442",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0443",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0444",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0445",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required morphed."
+    },
+    {
+        "id": "TEST-0446",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required payment."
+    },
+    {
+        "id": "TEST-0447",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0448",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required hurry."
+    },
+    {
+        "id": "TEST-0449",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0450",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0451",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0452",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required loan."
+    },
+    {
+        "id": "TEST-0453",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0454",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0455",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required emergency."
+    },
+    {
+        "id": "TEST-0456",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required prize."
+    },
+    {
+        "id": "TEST-0457",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0458",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required verify."
+    },
+    {
+        "id": "TEST-0459",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0460",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required last chance."
+    },
+    {
+        "id": "TEST-0461",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required nude."
+    },
+    {
+        "id": "TEST-0462",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0463",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required payment."
+    },
+    {
+        "id": "TEST-0464",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0465",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required credit card."
+    },
+    {
+        "id": "TEST-0466",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required prize."
+    },
+    {
+        "id": "TEST-0467",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0468",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0469",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required verify identity."
+    },
+    {
+        "id": "TEST-0470",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required final warning."
+    },
+    {
+        "id": "TEST-0471",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0472",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required now."
+    },
+    {
+        "id": "TEST-0473",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required record."
+    },
+    {
+        "id": "TEST-0474",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0475",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0476",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required investment."
+    },
+    {
+        "id": "TEST-0477",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0478",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required login."
+    },
+    {
+        "id": "TEST-0479",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0480",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required expose."
+    },
+    {
+        "id": "TEST-0481",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0482",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required credit card."
+    },
+    {
+        "id": "TEST-0483",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required pan card."
+    },
+    {
+        "id": "TEST-0484",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required prize."
+    },
+    {
+        "id": "TEST-0485",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required nude."
+    },
+    {
+        "id": "TEST-0486",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0487",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required expose."
+    },
+    {
+        "id": "TEST-0488",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required deadline."
+    },
+    {
+        "id": "TEST-0489",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required urgent."
+    },
+    {
+        "id": "TEST-0490",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required deepfake."
+    },
+    {
+        "id": "TEST-0491",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0492",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required money."
+    },
+    {
+        "id": "TEST-0493",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0494",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0495",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0496",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0497",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required login."
+    },
+    {
+        "id": "TEST-0498",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required video call."
+    },
+    {
+        "id": "TEST-0499",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0500",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0501",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required expose."
+    },
+    {
+        "id": "TEST-0502",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required deepfake."
+    },
+    {
+        "id": "TEST-0503",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required nude."
+    },
+    {
+        "id": "TEST-0504",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required immediately."
+    },
+    {
+        "id": "TEST-0505",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required login."
+    },
+    {
+        "id": "TEST-0506",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0507",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0508",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required record."
+    },
+    {
+        "id": "TEST-0509",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0510",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0511",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required video call."
+    },
+    {
+        "id": "TEST-0512",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0513",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required deadline."
+    },
+    {
+        "id": "TEST-0514",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required wallet."
+    },
+    {
+        "id": "TEST-0515",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0516",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0517",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0518",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0519",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0520",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required limited time."
+    },
+    {
+        "id": "TEST-0521",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0522",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required act fast."
+    },
+    {
+        "id": "TEST-0523",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0524",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required immediately."
+    },
+    {
+        "id": "TEST-0525",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required screenshot."
+    },
+    {
+        "id": "TEST-0526",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0527",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required act fast."
+    },
+    {
+        "id": "TEST-0528",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required private."
+    },
+    {
+        "id": "TEST-0529",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0530",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required wallet."
+    },
+    {
+        "id": "TEST-0531",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0532",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required investment."
+    },
+    {
+        "id": "TEST-0533",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0534",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0535",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required nude."
+    },
+    {
+        "id": "TEST-0536",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required now."
+    },
+    {
+        "id": "TEST-0537",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0538",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0539",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required otp."
+    },
+    {
+        "id": "TEST-0540",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required money."
+    },
+    {
+        "id": "TEST-0541",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0542",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0543",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required immediately."
+    },
+    {
+        "id": "TEST-0544",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0545",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required expire."
+    },
+    {
+        "id": "TEST-0546",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0547",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required nude."
+    },
+    {
+        "id": "TEST-0548",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required cashback."
+    },
+    {
+        "id": "TEST-0549",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0550",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0551",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0552",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required share publicly."
+    },
+    {
+        "id": "TEST-0553",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0554",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0555",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0556",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0557",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required investment."
+    },
+    {
+        "id": "TEST-0558",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required suspended."
+    },
+    {
+        "id": "TEST-0559",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0560",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required verify."
+    },
+    {
+        "id": "TEST-0561",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required expire."
+    },
+    {
+        "id": "TEST-0562",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required video call."
+    },
+    {
+        "id": "TEST-0563",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0564",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required video call."
+    },
+    {
+        "id": "TEST-0565",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required bank."
+    },
+    {
+        "id": "TEST-0566",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0567",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0568",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0569",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required cashback."
+    },
+    {
+        "id": "TEST-0570",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0571",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required blackmail."
+    },
+    {
+        "id": "TEST-0572",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required last chance."
+    },
+    {
+        "id": "TEST-0573",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0574",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required act fast."
+    },
+    {
+        "id": "TEST-0575",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0576",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required prize."
+    },
+    {
+        "id": "TEST-0577",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required act fast."
+    },
+    {
+        "id": "TEST-0578",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0579",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required verify identity."
+    },
+    {
+        "id": "TEST-0580",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required last chance."
+    },
+    {
+        "id": "TEST-0581",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0582",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0583",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0584",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required expose."
+    },
+    {
+        "id": "TEST-0585",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0586",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0587",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required suspended."
+    },
+    {
+        "id": "TEST-0588",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0589",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0590",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required pan card."
+    },
+    {
+        "id": "TEST-0591",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0592",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required nude."
+    },
+    {
+        "id": "TEST-0593",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0594",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0595",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0596",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0597",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0598",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0599",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0600",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required blackmail."
+    },
+    {
+        "id": "TEST-0601",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required verify identity."
+    },
+    {
+        "id": "TEST-0602",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required leak."
+    },
+    {
+        "id": "TEST-0603",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required final warning."
+    },
+    {
+        "id": "TEST-0604",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required upi."
+    },
+    {
+        "id": "TEST-0605",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0606",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0607",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required account."
+    },
+    {
+        "id": "TEST-0608",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required locked."
+    },
+    {
+        "id": "TEST-0609",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required blackmail."
+    },
+    {
+        "id": "TEST-0610",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0611",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required prize."
+    },
+    {
+        "id": "TEST-0612",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0613",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required locked."
+    },
+    {
+        "id": "TEST-0614",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0615",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required deadline."
+    },
+    {
+        "id": "TEST-0616",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required limited time."
+    },
+    {
+        "id": "TEST-0617",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required expose."
+    },
+    {
+        "id": "TEST-0618",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required deadline."
+    },
+    {
+        "id": "TEST-0619",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0620",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0621",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required blackmail."
+    },
+    {
+        "id": "TEST-0622",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0623",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0624",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0625",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0626",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required hurry."
+    },
+    {
+        "id": "TEST-0627",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0628",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required credential."
+    },
+    {
+        "id": "TEST-0629",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0630",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required suspended."
+    },
+    {
+        "id": "TEST-0631",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0632",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0633",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required investment."
+    },
+    {
+        "id": "TEST-0634",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required expose."
+    },
+    {
+        "id": "TEST-0635",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0636",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required screenshot."
+    },
+    {
+        "id": "TEST-0637",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0638",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0639",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection."
+    },
+    {
+        "id": "TEST-0640",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0641",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required pan card."
+    },
+    {
+        "id": "TEST-0642",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required now."
+    },
+    {
+        "id": "TEST-0643",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required limited time."
+    },
+    {
+        "id": "TEST-0644",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0645",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0646",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required password."
+    },
+    {
+        "id": "TEST-0647",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required verify identity."
+    },
+    {
+        "id": "TEST-0648",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0649",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0650",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0651",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required money."
+    },
+    {
+        "id": "TEST-0652",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0653",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required expire."
+    },
+    {
+        "id": "TEST-0654",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0655",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0656",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required intimate."
+    },
+    {
+        "id": "TEST-0657",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required credential."
+    },
+    {
+        "id": "TEST-0658",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0659",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required credit card."
+    },
+    {
+        "id": "TEST-0660",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0661",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0662",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0663",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0664",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required expose."
+    },
+    {
+        "id": "TEST-0665",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0666",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0667",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0668",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0669",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required password."
+    },
+    {
+        "id": "TEST-0670",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0671",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required intimate."
+    },
+    {
+        "id": "TEST-0672",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0673",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required act fast."
+    },
+    {
+        "id": "TEST-0674",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0675",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required deepfake."
+    },
+    {
+        "id": "TEST-0676",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0677",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0678",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required now."
+    },
+    {
+        "id": "TEST-0679",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required intimate."
+    },
+    {
+        "id": "TEST-0680",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0681",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0682",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required expire."
+    },
+    {
+        "id": "TEST-0683",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0684",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle. Action required photos."
+    },
+    {
+        "id": "TEST-0685",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0686",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required credential."
+    },
+    {
+        "id": "TEST-0687",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0688",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required loan."
+    },
+    {
+        "id": "TEST-0689",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0690",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required locked."
+    },
+    {
+        "id": "TEST-0691",
+        "expected_category": "identity_theft",
+        "description": "AADHAAR verification pending. Share documents to avoid utility disconnection. Action required now."
+    },
+    {
+        "id": "TEST-0692",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0693",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0694",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0695",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0696",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required last chance."
+    },
+    {
+        "id": "TEST-0697",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0698",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required prize."
+    },
+    {
+        "id": "TEST-0699",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0700",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0701",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0702",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0703",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0704",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required deadline."
+    },
+    {
+        "id": "TEST-0705",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0706",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0707",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required verify identity."
+    },
+    {
+        "id": "TEST-0708",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0709",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required last chance."
+    },
+    {
+        "id": "TEST-0710",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required final warning."
+    },
+    {
+        "id": "TEST-0711",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required urgent."
+    },
+    {
+        "id": "TEST-0712",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required verify."
+    },
+    {
+        "id": "TEST-0713",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required expose."
+    },
+    {
+        "id": "TEST-0714",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0715",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0716",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0717",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0718",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required bank."
+    },
+    {
+        "id": "TEST-0719",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0720",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required last chance."
+    },
+    {
+        "id": "TEST-0721",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0722",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required verify identity."
+    },
+    {
+        "id": "TEST-0723",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0724",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required bank."
+    },
+    {
+        "id": "TEST-0725",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0726",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0727",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required urgent."
+    },
+    {
+        "id": "TEST-0728",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required transfer."
+    },
+    {
+        "id": "TEST-0729",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required credential."
+    },
+    {
+        "id": "TEST-0730",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0731",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0732",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required nude."
+    },
+    {
+        "id": "TEST-0733",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required locked."
+    },
+    {
+        "id": "TEST-0734",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required account."
+    },
+    {
+        "id": "TEST-0735",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required photos."
+    },
+    {
+        "id": "TEST-0736",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required last chance."
+    },
+    {
+        "id": "TEST-0737",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required credential."
+    },
+    {
+        "id": "TEST-0738",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required video call."
+    },
+    {
+        "id": "TEST-0739",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required final warning."
+    },
+    {
+        "id": "TEST-0740",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0741",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0742",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0743",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0744",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required money."
+    },
+    {
+        "id": "TEST-0745",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0746",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required verify identity."
+    },
+    {
+        "id": "TEST-0747",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required expose."
+    },
+    {
+        "id": "TEST-0748",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required emergency."
+    },
+    {
+        "id": "TEST-0749",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required investment."
+    },
+    {
+        "id": "TEST-0750",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required screenshot."
+    },
+    {
+        "id": "TEST-0751",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0752",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required credit card."
+    },
+    {
+        "id": "TEST-0753",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required expose."
+    },
+    {
+        "id": "TEST-0754",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0755",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0756",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required leak."
+    },
+    {
+        "id": "TEST-0757",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0758",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification. Action required within 24 hours."
+    },
+    {
+        "id": "TEST-0759",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required share publicly."
+    },
+    {
+        "id": "TEST-0760",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0761",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0762",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required credit card."
+    },
+    {
+        "id": "TEST-0763",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0764",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required payment."
+    },
+    {
+        "id": "TEST-0765",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0766",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required verify."
+    },
+    {
+        "id": "TEST-0767",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required photos."
+    },
+    {
+        "id": "TEST-0768",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0769",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required video call."
+    },
+    {
+        "id": "TEST-0770",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0771",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required lottery."
+    },
+    {
+        "id": "TEST-0772",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0773",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0774",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0775",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0776",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0777",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required wallet."
+    },
+    {
+        "id": "TEST-0778",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required upi."
+    },
+    {
+        "id": "TEST-0779",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required loan."
+    },
+    {
+        "id": "TEST-0780",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0781",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required deadline."
+    },
+    {
+        "id": "TEST-0782",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required refund."
+    },
+    {
+        "id": "TEST-0783",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0784",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required lottery."
+    },
+    {
+        "id": "TEST-0785",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required limited time."
+    },
+    {
+        "id": "TEST-0786",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required bank."
+    },
+    {
+        "id": "TEST-0787",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required morphed."
+    },
+    {
+        "id": "TEST-0788",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0789",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0790",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required morphed."
+    },
+    {
+        "id": "TEST-0791",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0792",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required emergency."
+    },
+    {
+        "id": "TEST-0793",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required pan card."
+    },
+    {
+        "id": "TEST-0794",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0795",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0796",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required emergency."
+    },
+    {
+        "id": "TEST-0797",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0798",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0799",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required credit card."
+    },
+    {
+        "id": "TEST-0800",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required wallet."
+    },
+    {
+        "id": "TEST-0801",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0802",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required act fast."
+    },
+    {
+        "id": "TEST-0803",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0804",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media."
+    },
+    {
+        "id": "TEST-0805",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required investment."
+    },
+    {
+        "id": "TEST-0806",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0807",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0808",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize."
+    },
+    {
+        "id": "TEST-0809",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required final warning."
+    },
+    {
+        "id": "TEST-0810",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0811",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required payment."
+    },
+    {
+        "id": "TEST-0812",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required intimate."
+    },
+    {
+        "id": "TEST-0813",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0814",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0815",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required last chance."
+    },
+    {
+        "id": "TEST-0816",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now. Action required account."
+    },
+    {
+        "id": "TEST-0817",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required kyc."
+    },
+    {
+        "id": "TEST-0818",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required photos."
+    },
+    {
+        "id": "TEST-0819",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required share publicly."
+    },
+    {
+        "id": "TEST-0820",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required now."
+    },
+    {
+        "id": "TEST-0821",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required refund."
+    },
+    {
+        "id": "TEST-0822",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required act fast."
+    },
+    {
+        "id": "TEST-0823",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required share publicly."
+    },
+    {
+        "id": "TEST-0824",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required investment."
+    },
+    {
+        "id": "TEST-0825",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required loan."
+    },
+    {
+        "id": "TEST-0826",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0827",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required deepfake."
+    },
+    {
+        "id": "TEST-0828",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0829",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required wallet."
+    },
+    {
+        "id": "TEST-0830",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required morphed."
+    },
+    {
+        "id": "TEST-0831",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required investment."
+    },
+    {
+        "id": "TEST-0832",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0833",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0834",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0835",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0836",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0837",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required last chance."
+    },
+    {
+        "id": "TEST-0838",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0839",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required nude."
+    },
+    {
+        "id": "TEST-0840",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required locked."
+    },
+    {
+        "id": "TEST-0841",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0842",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0843",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required last chance."
+    },
+    {
+        "id": "TEST-0844",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0845",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required video call."
+    },
+    {
+        "id": "TEST-0846",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required loan."
+    },
+    {
+        "id": "TEST-0847",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet."
+    },
+    {
+        "id": "TEST-0848",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required screenshot."
+    },
+    {
+        "id": "TEST-0849",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0850",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0851",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services."
+    },
+    {
+        "id": "TEST-0852",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0853",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0854",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0855",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour. Action required photos."
+    },
+    {
+        "id": "TEST-0856",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required refund."
+    },
+    {
+        "id": "TEST-0857",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required account."
+    },
+    {
+        "id": "TEST-0858",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension."
+    },
+    {
+        "id": "TEST-0859",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required urgent."
+    },
+    {
+        "id": "TEST-0860",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop."
+    },
+    {
+        "id": "TEST-0861",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required payment."
+    },
+    {
+        "id": "TEST-0862",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required share publicly."
+    },
+    {
+        "id": "TEST-0863",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0864",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required suspended."
+    },
+    {
+        "id": "TEST-0865",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required unauthorized."
+    },
+    {
+        "id": "TEST-0866",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0867",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required morphed."
+    },
+    {
+        "id": "TEST-0868",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required loan."
+    },
+    {
+        "id": "TEST-0869",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0870",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0871",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now. Action required last chance."
+    },
+    {
+        "id": "TEST-0872",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required wallet."
+    },
+    {
+        "id": "TEST-0873",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification. Action required wallet."
+    },
+    {
+        "id": "TEST-0874",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal?"
+    },
+    {
+        "id": "TEST-0875",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required deepfake."
+    },
+    {
+        "id": "TEST-0876",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0877",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media. Action required screenshot."
+    },
+    {
+        "id": "TEST-0878",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0879",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0880",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0881",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required urgent."
+    },
+    {
+        "id": "TEST-0882",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required hurry."
+    },
+    {
+        "id": "TEST-0883",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0884",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0885",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0886",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0887",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock."
+    },
+    {
+        "id": "TEST-0888",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required photos."
+    },
+    {
+        "id": "TEST-0889",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required payment."
+    },
+    {
+        "id": "TEST-0890",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required expose."
+    },
+    {
+        "id": "TEST-0891",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required deepfake."
+    },
+    {
+        "id": "TEST-0892",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city?"
+    },
+    {
+        "id": "TEST-0893",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required nude."
+    },
+    {
+        "id": "TEST-0894",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0895",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required lottery."
+    },
+    {
+        "id": "TEST-0896",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0897",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required act fast."
+    },
+    {
+        "id": "TEST-0898",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required screenshot."
+    },
+    {
+        "id": "TEST-0899",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required credit card."
+    },
+    {
+        "id": "TEST-0900",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required lottery."
+    },
+    {
+        "id": "TEST-0901",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood? Action required record."
+    },
+    {
+        "id": "TEST-0902",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0903",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly."
+    },
+    {
+        "id": "TEST-0904",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required account."
+    },
+    {
+        "id": "TEST-0905",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0906",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0907",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required emergency."
+    },
+    {
+        "id": "TEST-0908",
+        "expected_category": "sextortion",
+        "description": "I caught you on camera. Private video will be leaked if you don't respond now."
+    },
+    {
+        "id": "TEST-0909",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required share publicly."
+    },
+    {
+        "id": "TEST-0910",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required aadhaar."
+    },
+    {
+        "id": "TEST-0911",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0912",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required limited time."
+    },
+    {
+        "id": "TEST-0913",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0914",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required kyc."
+    },
+    {
+        "id": "TEST-0915",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0916",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0917",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required credential."
+    },
+    {
+        "id": "TEST-0918",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required credit card."
+    },
+    {
+        "id": "TEST-0919",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment. Action required money."
+    },
+    {
+        "id": "TEST-0920",
+        "expected_category": "identity_theft",
+        "description": "Your PAN card is suspended. Login to verify your identity and unlock. Action required record."
+    },
+    {
+        "id": "TEST-0921",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear. Action required morphed."
+    },
+    {
+        "id": "TEST-0922",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0923",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0924",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer."
+    },
+    {
+        "id": "TEST-0925",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help."
+    },
+    {
+        "id": "TEST-0926",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0927",
+        "expected_category": "sextortion",
+        "description": "Blackmail attempt: Pay up or your nudes go on social media."
+    },
+    {
+        "id": "TEST-0928",
+        "expected_category": "benign",
+        "description": "Is there a helpline for women's safety in this city? Action required share publicly."
+    },
+    {
+        "id": "TEST-0929",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required emergency."
+    },
+    {
+        "id": "TEST-0930",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required urgent."
+    },
+    {
+        "id": "TEST-0931",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required immediately."
+    },
+    {
+        "id": "TEST-0932",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required limited time."
+    },
+    {
+        "id": "TEST-0933",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0934",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0935",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required deadline."
+    },
+    {
+        "id": "TEST-0936",
+        "expected_category": "sextortion",
+        "description": "Your intimate video call was recorded. Pay 50000 or I share it publicly. Action required prize."
+    },
+    {
+        "id": "TEST-0937",
+        "expected_category": "financial_fraud",
+        "description": "UPI cashback offer! Scan this QR code to receive 2000 in your wallet. Action required verify identity."
+    },
+    {
+        "id": "TEST-0938",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0939",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0940",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login."
+    },
+    {
+        "id": "TEST-0941",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0942",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family. Action required credit card."
+    },
+    {
+        "id": "TEST-0943",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required suspended."
+    },
+    {
+        "id": "TEST-0944",
+        "expected_category": "financial_fraud",
+        "description": "Urgent: Your bank account is locked. Click here for refund and verification."
+    },
+    {
+        "id": "TEST-0945",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required kyc."
+    },
+    {
+        "id": "TEST-0946",
+        "expected_category": "benign",
+        "description": "How can I report a lost phone in my neighborhood?"
+    },
+    {
+        "id": "TEST-0947",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required act fast."
+    },
+    {
+        "id": "TEST-0948",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0949",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required cashback."
+    },
+    {
+        "id": "TEST-0950",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required pan card."
+    },
+    {
+        "id": "TEST-0951",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices."
+    },
+    {
+        "id": "TEST-0952",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required morphed."
+    },
+    {
+        "id": "TEST-0953",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required credential."
+    },
+    {
+        "id": "TEST-0954",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now."
+    },
+    {
+        "id": "TEST-0955",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry?"
+    },
+    {
+        "id": "TEST-0956",
+        "expected_category": "identity_theft",
+        "description": "KYC mandatory for your bank account. Share OTP to continue services. Action required locked."
+    },
+    {
+        "id": "TEST-0957",
+        "expected_category": "identity_theft",
+        "description": "Verify your credentials to avoid being locked out of your social media. Action required password."
+    },
+    {
+        "id": "TEST-0958",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying. Action required kyc."
+    },
+    {
+        "id": "TEST-0959",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required expire."
+    },
+    {
+        "id": "TEST-0960",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0961",
+        "expected_category": "impersonation",
+        "description": "Electricity department: Your bill is overdue. Power will be cut in 1 hour."
+    },
+    {
+        "id": "TEST-0962",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0963",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details."
+    },
+    {
+        "id": "TEST-0964",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0965",
+        "expected_category": "benign",
+        "description": "How do I change my home address in the government portal? Action required final warning."
+    },
+    {
+        "id": "TEST-0966",
+        "expected_category": "impersonation",
+        "description": "GST department: Discrepancy found in your tax filing. Call for verification."
+    },
+    {
+        "id": "TEST-0967",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required video call."
+    },
+    {
+        "id": "TEST-0968",
+        "expected_category": "benign",
+        "description": "I need help setting up my email client on my new laptop. Action required kyc."
+    },
+    {
+        "id": "TEST-0969",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site?"
+    },
+    {
+        "id": "TEST-0970",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required password."
+    },
+    {
+        "id": "TEST-0971",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money."
+    },
+    {
+        "id": "TEST-0972",
+        "expected_category": "impersonation",
+        "description": "This is the police. An arrest warrant is issued in your name. Pay fine to settle."
+    },
+    {
+        "id": "TEST-0973",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required photos."
+    },
+    {
+        "id": "TEST-0974",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges."
+    },
+    {
+        "id": "TEST-0975",
+        "expected_category": "financial_fraud",
+        "description": "Loan approved without documents. Pay processing fee to start transfer. Action required act fast."
+    },
+    {
+        "id": "TEST-0976",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0977",
+        "expected_category": "identity_theft",
+        "description": "Update your Aadhaar KYC immediately to avoid account suspension. Action required blackmail."
+    },
+    {
+        "id": "TEST-0978",
+        "expected_category": "financial_fraud",
+        "description": "You have a pending tax refund. Verify your credit card to receive payment."
+    },
+    {
+        "id": "TEST-0979",
+        "expected_category": "financial_fraud",
+        "description": "You won a lottery of 1 crore! Send 5000 for registration to claim prize. Action required bank."
+    },
+    {
+        "id": "TEST-0980",
+        "expected_category": "sextortion",
+        "description": "I have screenshots of our chat. I will expose you unless you send money. Action required screenshot."
+    },
+    {
+        "id": "TEST-0981",
+        "expected_category": "benign",
+        "description": "Can you help me reset my forgotten password through the official site? Action required investment."
+    },
+    {
+        "id": "TEST-0982",
+        "expected_category": "impersonation",
+        "description": "Customs department: A package in your name has illegal items. Pay to clear."
+    },
+    {
+        "id": "TEST-0983",
+        "expected_category": "sextortion",
+        "description": "Morphed photos of you are ready to be sent to your contacts. Stop me by paying."
+    },
+    {
+        "id": "TEST-0984",
+        "expected_category": "identity_theft",
+        "description": "Unauthorized login attempt on your account. Verify identity now. Action required lottery."
+    },
+    {
+        "id": "TEST-0985",
+        "expected_category": "impersonation",
+        "description": "Relative in hospital: Need urgent money transfer for surgery. Please help. Action required now."
+    },
+    {
+        "id": "TEST-0986",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0987",
+        "expected_category": "financial_fraud",
+        "description": "Investment opportunity: Double your money in 2 days. Share bank details. Action required money."
+    },
+    {
+        "id": "TEST-0988",
+        "expected_category": "impersonation",
+        "description": "Your boss is in an emergency meeting and needs you to buy gift cards now."
+    },
+    {
+        "id": "TEST-0989",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0990",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required deepfake."
+    },
+    {
+        "id": "TEST-0991",
+        "expected_category": "financial_fraud",
+        "description": "Prize alert: You are selected for a free gift. Just pay delivery charges. Action required credential."
+    },
+    {
+        "id": "TEST-0992",
+        "expected_category": "sextortion",
+        "description": "I have your private photos. If you don't pay, I will leak them to your family."
+    },
+    {
+        "id": "TEST-0993",
+        "expected_category": "benign",
+        "description": "I want to learn about cyber security best practices. Action required urgent."
+    },
+    {
+        "id": "TEST-0994",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix."
+    },
+    {
+        "id": "TEST-0995",
+        "expected_category": "impersonation",
+        "description": "HR Manager: Urgent update required for tax documents. Click to login. Action required suspended."
+    },
+    {
+        "id": "TEST-0996",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office. Action required payment."
+    },
+    {
+        "id": "TEST-0997",
+        "expected_category": "sextortion",
+        "description": "Deepfake video of you has been created. Pay or I'll share it to your office."
+    },
+    {
+        "id": "TEST-0998",
+        "expected_category": "benign",
+        "description": "Where is the nearest police station for general inquiry? Action required emergency."
+    },
+    {
+        "id": "TEST-0999",
+        "expected_category": "identity_theft",
+        "description": "Your account is suspended due to suspicious activity. Input password to fix. Action required last chance."
+    }
+]

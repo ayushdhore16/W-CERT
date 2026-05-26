@@ -1,0 +1,40 @@
+{
+    "overall": {
+        "total_cases": 1000,
+        "detection_rate": "90.70%",
+        "miss_rate": "9.30%"
+    },
+    "severity_distribution": {
+        "CRITICAL": 423,
+        "HIGH": 185,
+        "MEDIUM": 205,
+        "LOW": 187
+    },
+    "category_performance": {
+        "sextortion": {
+            "total": 201,
+            "detected": 201,
+            "recall": "100.00%"
+        },
+        "impersonation": {
+            "total": 183,
+            "detected": 147,
+            "recall": "80.33%"
+        },
+        "identity_theft": {
+            "total": 193,
+            "detected": 193,
+            "recall": "100.00%"
+        },
+        "financial_fraud": {
+            "total": 232,
+            "detected": 232,
+            "recall": "100.00%"
+        },
+        "benign": {
+            "total": 191,
+            "detected": 0,
+            "recall": "0.00%"
+        }
+    }
+}
